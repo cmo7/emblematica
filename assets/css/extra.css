@@ -20,7 +20,7 @@
     }
 
     .logo-row img {
-        height: auto;
-        width: 100%;
+        height: 50px;
+        width: auto;
     }
 }
